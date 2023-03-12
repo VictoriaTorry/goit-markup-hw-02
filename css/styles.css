@@ -58,7 +58,7 @@ body {
   color: var(--secondary-color);
 }
 
-.page-nav .link.current {
+.page-nav-link.current {
   color: var(--secondary-color);
 }
 
@@ -157,7 +157,6 @@ body {
 .team-list {
   list-style: none;
 }
-
 
 .team-list-item {
   background: #ffffff;
