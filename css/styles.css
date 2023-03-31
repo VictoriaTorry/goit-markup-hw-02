@@ -242,6 +242,12 @@ body {
   background-color: var(--color-on-dark-bg);
 }
 
+.portfolio-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
 .portfolio-card-title {
   font-weight: 700;
   font-size: 18px;
